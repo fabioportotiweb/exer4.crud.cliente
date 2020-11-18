@@ -44,6 +44,7 @@ public class ClienteDAO {
 
 
             JOptionPane.showMessageDialog(null, "Salvo com sucesso!");
+	    JOptionPane.showMessageDialog(null, "Comentário realizado no repositório remoto :D!");
             
             
         } catch (SQLException ex) {
